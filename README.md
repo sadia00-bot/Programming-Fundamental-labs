@@ -1,32 +1,9 @@
-BS Programming Fundamentals Lab
+Programming Fundamentals Labs
 
-About
+This repository contains Programming Fundamentals lab work.
 
-This repository contains lab tasks, practical assignments, and programs for the BS Programming Fundamentals course.
+Lab 01 – Lab 02
 
-Programming Language
+Purpose: To organize lab tasks and source code in one repository.
 
-- C++
-
-Lab Contents
-
-- Basic Input and Output
-- Variables and Data Types
-- Operators and Expressions
-- Conditional Statements
-- Loops
-- Arrays
-- Functions
-- Practical Lab Assignments
-
-Objective
-
-The objective of this repository is to learn programming concepts, solve lab problems, and improve problem-solving skills.
-
-Author
-
-BS Student
-
-Course
-
-Programming Fundamentals Lab
+All work follows the teacher's instructions.
