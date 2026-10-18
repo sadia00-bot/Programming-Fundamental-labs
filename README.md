@@ -2,7 +2,7 @@ Programming Fundamentals Labs
 
 This repository contains Programming Fundamentals lab work.
 
-Lab 01 – Lab 02
+Labs
 
 Purpose: To organize lab tasks and source code in one repository.
 
